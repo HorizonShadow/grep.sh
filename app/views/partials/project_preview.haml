@@ -1,0 +1,10 @@
+.pure-g
+	.pure-u-1.pure-u-md-1-3
+		%img.pure-img-responsive(src="/img/#{@file}.png")
+	.pure-u-1.pure-u-md-2-3
+		.content-box
+			.title
+				%a(href="/projects/#{@file}")
+					=@name
+			.body
+				=@body

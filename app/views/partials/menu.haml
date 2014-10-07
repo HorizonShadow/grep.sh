@@ -1,0 +1,26 @@
+%a.menu-link(href="#menu" id="menuLink")
+#menu
+	.pure-menu.pure-menu-open
+		%a.pure-menu-heading Josh
+		%ul
+			%li
+				%a(href="/") Home
+			%li
+				%a(href="/blog") Blog
+			%li
+				%a(href="/projects") Projects
+			%li
+				%a(href="/social") About
+			%li.pure-menu-heading Follow Me
+			%li
+				=render_social_link "https://www.github.com/HorizonShadow"
+			%li
+				=render_social_link "http://www.stackoverflow.com/users/2424975/cereal"
+			%li
+				=render_social_link "http://www.codepen.io/ThirdSign/"
+			%li
+				=render_social_link "https://www.twitter.com/SC2Cereal"
+			%li
+				=render_social_link "http://www.twitch.tv/breakfasttv"
+
+

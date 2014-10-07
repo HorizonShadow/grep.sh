@@ -1,0 +1,11 @@
+.content-box
+	.header
+		Recent Stackoverflow answers
+	.body
+		-@answers.each do |answer|
+			.content-box
+				.mini-title
+					%a(href="#{answer.link}") #{answer.title}
+				.body
+					%blockquote.answer-preview
+						= CGI.unescapeHTML answer.summary

@@ -1,0 +1,19 @@
+.header
+	%h1 grep.sh
+	%h2 Home to my own projects, scripts, tutorials, and ramblings.
+.content
+	.pure-g
+		.pure-u-1.pure-u-md-2-3
+			.content-box
+				.header
+					Recent Projects
+				.body
+					.pure-g
+						.pure-u-1.pure-u-md-1-2
+							=render_project_preview(:somebodycodes, "Somebody Codes", "A small site that displays random dists from github. Supports comments")
+						.pure-u-1.pure-u-md-1-2
+							=render_project_preview(:ramscanner, "Starcraft II Ram Scanner", "C# program that reads a user's ram for information related to Starcraft II")
+						.pure-u-1.pure-u-md-1-2
+							=render_project_preview(:musicticker, "Music Ticker for XSplit, Obs, FFSplit, etc", "Java program to grab the currently playing song from last.fm for a given account, and print it to a text file.")
+		.pure-u-1.pure-u-md-1-3
+			=render_partial :so_answers

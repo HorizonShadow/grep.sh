@@ -32,26 +32,57 @@
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" scope="PROVIDED" name="akami (v1.2.0, rbenv: 2.1.0) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="backports (v3.4.0, rbenv: 2.1.0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="blankslate (v2.1.2.4, rbenv: 2.1.0) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="builder (v3.1.4, rbenv: 2.1.0) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="bundler (v1.5.3, rbenv: 2.1.0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="celluloid (v0.15.2, rbenv: 2.1.0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="classifier-reborn (v2.0.1, rbenv: 2.1.0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="coffee-script (v2.3.0, rbenv: 2.1.0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="coffee-script-source (v1.7.1, rbenv: 2.1.0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="colorator (v0.1, rbenv: 2.1.0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="execjs (v2.2.1, rbenv: 2.1.0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="fast-stemmer (v1.0.2, rbenv: 2.1.0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="ffi (v1.9.3, rbenv: 2.1.0) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="gyoku (v1.1.0, rbenv: 2.1.0) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="haml (v4.0.5, rbenv: 2.1.0) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="httpi (v2.1.0, rbenv: 2.1.0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="jekyll (v2.3.0, rbenv: 2.1.0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="jekyll-coffeescript (v1.0.0, rbenv: 2.1.0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="jekyll-gist (v1.1.0, rbenv: 2.1.0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="jekyll-paginate (v1.0.0, rbenv: 2.1.0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="jekyll-sass-converter (v1.2.0, rbenv: 2.1.0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="jekyll-watch (v1.1.0, rbenv: 2.1.0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="kramdown (v1.4.1, rbenv: 2.1.0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="liquid (v2.6.1, rbenv: 2.1.0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="listen (v2.7.9, rbenv: 2.1.0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="mercenary (v0.3.4, rbenv: 2.1.0) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="mime-types (v1.25.1, rbenv: 2.1.0) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="multi_json (v1.8.4, rbenv: 2.1.0) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="nokogiri (v1.5.6, rbenv: 2.1.0) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="nori (v2.3.0, rbenv: 2.1.0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="parslet (v1.5.0, rbenv: 2.1.0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="posix-spawn (v0.3.9, rbenv: 2.1.0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="pygments.rb (v0.6.0, rbenv: 2.1.0) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="rack (v1.5.2, rbenv: 2.1.0) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="rack-protection (v1.5.1, rbenv: 2.1.0) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="rack-test (v0.6.2, rbenv: 2.1.0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="rb-fsevent (v0.9.4, rbenv: 2.1.0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="rb-inotify (v0.9.5, rbenv: 2.1.0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="redcarpet (v3.1.2, rbenv: 2.1.0) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="rubyntlm (v0.3.4, rbenv: 2.1.0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="safe_yaml (v1.0.3, rbenv: 2.1.0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="sass (v3.3.4, rbenv: 2.1.0) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="savon (v2.3.2, rbenv: 2.1.0) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="shotgun (v0.9, rbenv: 2.1.0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="simple-rss (v1.3.1, rbenv: 2.1.0) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="sinatra (v1.4.4, rbenv: 2.1.0) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="sinatra-contrib (v1.4.2, rbenv: 2.1.0) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="sinatra-static-assets (v1.0.3, rbenv: 2.1.0) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="tilt (v1.4.1, rbenv: 2.1.0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="timers (v1.1.0, rbenv: 2.1.0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="toml (v0.1.1, rbenv: 2.1.0) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="wasabi (v3.2.3, rbenv: 2.1.0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="yajl-ruby (v1.1.0, rbenv: 2.1.0) [gem]" level="application" />
   </component>
 </module>
 

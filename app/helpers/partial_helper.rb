@@ -7,7 +7,7 @@ module Site
 		def render_social_link(url)
 			@url = url
 			@name = url.match(/(\.)(.*)(\.)/)[2].capitalize
-			@img_loc = "/img/icons/#{@name}/#{@name}-256.png"
+			@img_loc = "/img/icons/#{@name.downcase}/#{@name.downcase}-256.png"
 			haml :social_link, partial: false
 		end
 
